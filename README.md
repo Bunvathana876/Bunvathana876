@@ -16,6 +16,14 @@
 
 ---
 
+<h3 align="center">🐟 My GitHub Koi</h3>
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Animated GitHub Koi based on my contributions" />
+</p>
+
+<p align="center"><i>Growing with every contribution.</i></p>
+
 ### 👨‍💻 About Me
 - 🎓 Fourth-year Software Development student at **Norton University**
 - 💡 Interested in **Full-Stack Development** and **Mobile App Development**
