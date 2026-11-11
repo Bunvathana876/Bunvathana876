@@ -40,4 +40,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
-          git push --quiet
+
+          # Another profile edit may have landed while we rendered the GIF.
+          # Rebase our new commit onto the latest main and retry safely.
+          for attempt in 1 2 3; do
+            git fetch --quiet origin main
+            git rebase origin/main
+            if git push --quiet origin HEAD:main; then
+              echo "Koi GIF successfully committed to main."
+              exit 0
+            fi
+            echo "Push attempt $attempt rejected; retrying..."
+          done
+          echo "Unable to push after three attempts." >&2
+          exit 1
