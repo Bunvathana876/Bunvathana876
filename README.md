@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bun-vathana-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" /></a>
+  <a href="https://portfoliovathana.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visit my portfolio" /></a>
   <a href="https://github.com/Bunvathana876?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my GitHub projects" /></a>
 </p>
 
@@ -48,7 +48,7 @@ I'm open to **software development internships, junior developer opportunities, 
 | **[Sunflower Expert System](https://github.com/Bunvathana876/Expert_sunflower)** | Bilingual English/Khmer plant disease diagnosis platform with symptom analysis and a knowledge base. | FastAPI, React, PostgreSQL, SQLAlchemy |
 | **[Ai CarCheck](https://github.com/Bunvathana876/Ai_carCheck_system/tree/feature/expert-system)** | University automotive expert system with rule-based inference, diagnostic explanations, and an EV telemetry simulation. | TypeScript, React, Node.js, SQLite |
 | **[DailyFlow](https://github.com/Bunvathana876/Daily_Flow_APP)** | Habit tracking and productivity app with streak analytics, local storage, and Pomodoro focus sessions. | Flutter, Dart, Riverpod, SQLite |
-| **[Personal Portfolio](https://bun-vathana-portfolio.vercel.app)** | A personal website showcasing my projects, education, and development journey. | Next.js, TypeScript |
+| **[Personal Portfolio](https://portfoliovathana.vercel.app/)** | A personal website showcasing my projects, education, and development journey. | Next.js, TypeScript |
 
 ## Engineering Practices I'm Developing
 
@@ -72,7 +72,7 @@ I'm deepening my understanding of Java and Spring Boot, Node.js backend developm
 
 ## Let's Connect
 
-- **Portfolio:** [bun-vathana-portfolio.vercel.app](https://bun-vathana-portfolio.vercel.app)
+- **Portfolio:** [portfoliovathana.vercel.app](https://portfoliovathana.vercel.app/)
 - **GitHub:** [@Bunvathana876](https://github.com/Bunvathana876)
 
 ---
